@@ -6,7 +6,7 @@ Sou estudante do **Curso Técnico em Desenvolvimento de Sistemas** no Senac de L
 
 ## Hard Skills
 
-* **Linguagens de Programação:** JavaScript, C# e PHP (em aprendizado)
+* **Linguagens de Programação (em aprendizado):** JavaScript, C# e PHP
 * **Banco de Dados:** MySQL e MariaDB
 * **Sistemas Operacionais:** Windows e Linux (experiência em testes de diferentes distribuições, com maior vivência em Zorin OS e CachyOS com Hyprland)
 * **Ferramentas e Tecnologias:** Git, GitHub e Pacote Office (básico)
